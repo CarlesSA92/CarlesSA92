@@ -13,6 +13,9 @@
 <a href="https://linkedin.com/in/carlessanchezassens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlessanchezassens" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Down this README you will find my projects, please take a look!</h3>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">¡Hola, soy Carles! ¡Bienvenidos a mi espacio de trabajo!</h1>
 <h3 align="center">Soy un ingeniero en tecnologías de la Industria 4.0 que decidió emprender una nueva aventura en el mundo de la programación.</h3>
 
@@ -28,6 +31,9 @@
 <a href="https://linkedin.com/in/carlessanchezassens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlessanchezassens" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Debajo de este README podrás encontrar mis proyectos, por favor, échales un vistazo!</h3>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="left">Skills / Habilidades: </h2>
 <table align="center">
@@ -98,21 +104,3 @@
 </td>
 </tr>
 </table>
-
-
-
-
-<!--
-**CarlesSA92/CarlesSA92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
