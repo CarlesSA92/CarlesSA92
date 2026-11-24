@@ -5,6 +5,7 @@
 - 🌱 I’m currently improving **my skills daily with new goals**
 - 🤝 I’m looking to collaborate on **projects or challenges that need a creative solution**
 - 📝 Availability for: **websites, apps or games**
+- ⚡ Value Proposal: Development of interfaces for websites and apps, database management, and teamwork to achieve objectives.
 
 <h3 align="left">Connect with me:</h3>
 📫 How to reach me: <b>carles.s.a@hotmai.com</b>
@@ -19,6 +20,7 @@
 - 🌱 Sigo mejorando **mis habilidades día a día mediante nuevos objetivos**
 - 🤝 Busco colaborar en **proyectos o desafíos que requieran una solución creativa**
 - 📝 Disponible para: **sitios web, aplicaciones o videojuegos**
+- ⚡ Propuesta de valor: desarrollo de interfaces para sitios web y apps, gestión de base de datos y trabajo en equipo para completar objetivos.
 
 <h3 align="left">Conecta conmigo:</h3>
 📫 Cómo contactarme: <b>carles.s.a@hotmai.com</b>
